@@ -131,7 +131,11 @@ const suryansh = {
 
 <div align="center">
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=StrugglerSuryansh&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="70%](https://streak-stats.demolab.com/?user=StrugglerSuryansh&theme=tokyonight)"/>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=StrugglerSuryansh&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 </div>
 
