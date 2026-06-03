@@ -118,40 +118,33 @@ const suryansh = {
 <br/>
 
 ---
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=StrugglerSuryansh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=StrugglerSuryansh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrugglerSuryansh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=StrugglerSuryansh&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=StrugglerSuryansh&theme=tokyonight&hide_border=true" width="75%" />
 
 </div>
 
-<br>
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StrugglerSuryansh&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=StrugglerSuryansh&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=StrugglerSuryansh&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -163,7 +156,7 @@ const suryansh = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StrugglerSuryansh&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StrugglerSuryansh&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -171,17 +164,29 @@ const suryansh = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-```
-[ ] Master React & Next.js                    ████████░░  80%
-[ ] Build & ship 3 full-stack projects        ██████░░░░  60%
-[ ] Contribute to open source                 ████░░░░░░  40%
-[ ] Learn backend with Node.js & Express      ███████░░░  70%
-[ ] Explore Web3 & decentralised apps         ███░░░░░░░  30%
+```text
+[ ] Master React & Next.js                ████████░░ 80%
+[ ] Build & ship 5 full-stack projects    ███████░░░ 70%
+[ ] Learn AWS & Cloud Computing           ██████░░░░ 60%
+[ ] Learn Docker & CI/CD                  █████░░░░░ 50%
+[ ] Contribute to Open Source             ████░░░░░░ 40%
 ```
 
 <br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's%20Build%20Something%20Cool&fontSize=20&fontColor=a78bfa&fontAlignY=65" width="100%"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=StrugglerSuryansh\&label=Profile%20Views\&color=blue\&style=flat)
+
+</div>
 
 ---
 
