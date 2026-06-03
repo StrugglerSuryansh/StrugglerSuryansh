@@ -169,15 +169,6 @@ const developer = {
 
 <br/>
 
----
-
-## 🔝 Top Contributions
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=StrugglerSuryansh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&no-bg=false"/>
-
-</div>
 
 <br/>
 
