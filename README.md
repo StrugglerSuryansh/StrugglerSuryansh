@@ -20,7 +20,7 @@ Where ideas transform into elegant solutions
 <div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/suryansh-patwal)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/suryansh-patwal](https://www.linkedin.com/in/suryansh-patwal/))
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Csuryansh)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshpatwal@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://surya1.me)
