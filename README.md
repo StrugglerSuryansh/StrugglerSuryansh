@@ -121,19 +121,6 @@ const developer = {
 
 <br/>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=StrugglerSuryansh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrugglerSuryansh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -141,17 +128,6 @@ const developer = {
 
 </div>
 
-<br/>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=StrugglerSuryansh&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 <br/>
 
