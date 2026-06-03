@@ -125,13 +125,13 @@ const suryansh = {
 
 <img src="https://streak-stats.demolab.com?user=StrugglerSuryansh&theme=tokyonight" />
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StrugglerSuryansh&theme=tokyonight" />
+
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StrugglerSuryansh&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="70%"/>
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=StrugglerSuryansh&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="70%](https://streak-stats.demolab.com/?user=StrugglerSuryansh&theme=tokyonight)"/>
 
 </div>
 
