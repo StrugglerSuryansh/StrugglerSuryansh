@@ -127,9 +127,9 @@ const developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=StrugglerSuryansh&show_icons=true&theme=gradient&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=StrugglerSuryansh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrugglerSuryansh&layout=compact&theme=gradient&hide_border=false" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrugglerSuryansh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -137,7 +137,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=StrugglerSuryansh&theme=gradient&hide_border=false" width="80%" />
+<img src="https://streak-stats.demolab.com?user=StrugglerSuryansh&theme=tokyonight&hide_border=true" width="80%" />
 
 </div>
 
@@ -149,7 +149,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=StrugglerSuryansh&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=StrugglerSuryansh&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -187,7 +187,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -199,7 +199,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=StrugglerSuryansh&limit=5&theme=radical&combine_all_yearly_contributions=true&no-bg=true&no-frame=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=StrugglerSuryansh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&no-bg=false"/>
 
 </div>
 
@@ -213,7 +213,7 @@ const developer = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=StrugglerSuryansh&label=Profile%20Views&color=0966C2&style=flat-square) | ![Visitor Badge](https://visitcount.itsvg.in/api?id=StrugglerSuryansh&label=Total%20Visitors&color=0966C2&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=StrugglerSuryansh&label=Profile%20Views&color=blue&style=flat)
 
 <br/>
 
