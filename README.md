@@ -121,27 +121,31 @@ const suryansh = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=StrugglerSuryansh&theme=tokyonight" />
-&nbsp;&nbsp;
-
-
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=StrugglerSuryansh&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrugglerSuryansh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=StrugglerSuryansh&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://streak-stats.demolab.com?user=StrugglerSuryansh&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StrugglerSuryansh&theme=tokyo-night&hide_border=true" width="100%" />
+
 </div>
-
-<br/>
-
----
 
 ## 🏆 Trophies
 
