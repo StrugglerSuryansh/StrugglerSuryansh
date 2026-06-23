@@ -96,31 +96,6 @@ const developer = {
 
 <br/>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏆  | Project                                                                                   | Description                               | Stack      | Stars |
-| :-: | ----------------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | :---: |
-| 🌟  | [**portfolio**](https://github.com/StrugglerSuryansh/portfolio)                           | Personal portfolio v2 — live on Vercel    | JavaScript | ⭐ 8  |
-| 🌟  | [**static-site**](https://github.com/StrugglerSuryansh/static-site)                       | Clean static web layout                   | HTML       | ⭐ 8  |
-| 🔮  | [**3js-react-fibre**](https://github.com/StrugglerSuryansh/3js-react-fibre)               | 3D graphics with Three.js + React Fiber   | JavaScript | ⭐ 7  |
-| 🙏  | [**krishna**](https://github.com/StrugglerSuryansh/krishna)                               | Creative CSS tribute page                 | CSS        | ⭐ 7  |
-| 📍  | [**presence**](https://github.com/StrugglerSuryansh/presence)                             | Geolocation attendance tracker — SIH 2024 | JavaScript | ⭐ 7  |
-| 📋  | [**tare_zameen_par**](https://github.com/StrugglerSuryansh/tare_zameen_par)               | Full-stack TypeScript project             | TypeScript | ⭐ 6  |
-| 🎯  | [**jira-clone**](https://github.com/StrugglerSuryansh/jira-clone)                         | Project management app clone              | Next.js    | ⭐ 5  |
-| 🛡️  | [**WeGaurd-Website**](https://github.com/StrugglerSuryansh/WeGaurd-Website)               | WeGuard website built with v0.dev         | TypeScript | ⭐ 5  |
-| 🤖  | [**gemini-ai-chatbot**](https://github.com/StrugglerSuryansh/gemini-ai-chatbot)           | AI chatbot with Gemini + Next.js          | TypeScript | ⭐ 4  |
-| 🚗  | [**BackEnd_DecRideSharing**](https://github.com/StrugglerSuryansh/BackEnd_DecRideSharing) | Backend for decentralised ride-sharing    | Node.js    | ⭐ 4  |
-| 📹  | [**VideoChatApp**](https://github.com/StrugglerSuryansh/VideoChatApp)                     | Real-time video chat application          | JavaScript | ⭐ 3  |
-| 🍱  | [**Final_RePlate**](https://github.com/StrugglerSuryansh/Final_RePlate)                   | RePlate — food waste reduction platform   | JavaScript | ⭐ 4  |
-
-</div>
-
-<br/>
-
 
 <div align="center">
 
